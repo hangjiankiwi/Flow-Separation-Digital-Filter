@@ -12,5 +12,7 @@ BFImax: maximum value of long term ratio of baseflow to total streamflow
 
 
 References:
+
 Nathan, R.J. and T.A. McMahon, 1990. Evaluation of Automated Techniques for Baseflow and Recession Analysis. Water Resources Research, 26(7):1465-1473.
+
 Eckhardt, K., 2005. How to Construct Recursive Digital Filters for Baseflow Separation. Hydrological Processes, 19(2):507-515.
